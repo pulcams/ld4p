@@ -6,7 +6,7 @@ During 2016-2018, Princeton was a partner in the Mellon-funded Linked Data for P
 Princeton worked with the [W3C Web Annotation model](https://www.w3.org/TR/annotation-model/) to encode dedications in books from Jacques Derrida’s personal library, acquired by the University in March, 2015. Out of the 19,000 volumes of Derrida’s library, 6,770 have personal dedications to him. Of these, a group of 450 items was ultimately selected to be the basis of our dataset. 
 
 
-The goal was to go from static textual notes to structured data, identifying the people, places and events in the inscriptions and to provide identifiers and standard coding to enable researchers (eventually) to explore Derrida’s intellectual and social network in new and surprising ways. This project marks an important milestone -- and in many ways the most difficult one -- toward this goal: a preliminary linked dataset.  
+The goal was to go from static textual notes to structured data, identifying the people, places and events in the inscriptions and to provide identifiers and standard coding to enable researchers (eventually) to explore Derrida’s intellectual and social network in new and surprising ways. This project marks an important milestone -- and in many ways the most difficult one -- toward this goal: a preliminary linked dataset.
 
 ## The Data
 Available here is a preliminary 'dump' of encoded dedications in [turtle](https://en.wikipedia.org/wiki/Turtle_(syntax)) format, provided as a primary deliverable of our project. This dataset is at a respectable stopping point, but it is not "done and dusted". We anticipate that it will continue to evolve (see _Future plans / Exciting Possibilities_ below).    
@@ -47,7 +47,8 @@ Dedicators, dedicatees and other personal names were reconciled against VIAF, as
 Each body is defined as an inscription that has the content of the dedication as its value.
 
 ## Future plans / Exciting Possibilities
-* Add encoding for: images, color content, concepts, events or dates (besides date of creation of dedication), formatting of dedication (line breaks, indents, etc.), or multiple languages
+* Add links to images of signatures (pending)
+* Add encoding for: color content, concepts, events or dates (besides date of creation of dedication), formatting of dedication (line breaks, indents, etc.), or multiple languages
 * Identifying confidence level of transcription or relationships
 * Define the type of insertion (postcard, letter, etc.)
 * Establish relationships between separate dedications in the same item
@@ -58,6 +59,13 @@ Each body is defined as an inscription that has the content of the dedication as
 * Upload dedicators signatures to Wikidata, and link to them
 * Invite scholars to participate by contributing their own annotations for illegible text, etc. (enable crowdsourcing)
 * Collaborate with Princeton's own Center for Digital Humanities on their related [Derrida's Margins](https://derridas-margins.princeton.edu/) project.
+
+### Abbreviated Credits
+Thanks to Rick Schulz and the Princeton University Library Leadership Team.
+
+We would also like to express our appreciation to the Department of Rare Books and Special Collections for their support and access to the materials, as well as to the Digital Studio for providing images of relevant pages so efficiently.
+
+Finally many thanks -- and hearty congratulations -- to our LD4P partners at Columbia, Cornell, Harvard, Library of Congress, and Stanford.
 
 ### Princeton's LD4P Core Group
 * Joyce Bell
