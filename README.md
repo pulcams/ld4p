@@ -1,6 +1,6 @@
 ## The Project
 
-During 2016-2018, Princeton was a partner in the Mellon-funded Linked Data for Production ([LD4P](https://wiki.duraspace.org/display/LD4P)) project, aimed at exploring workflows and extensions to BIBFRAME to cover specific domains.
+During 2016-2018, Princeton was a partner in the Mellon-funded Linked Data for Production ([LD4P](https://wiki.duraspace.org/display/LD4P)) project, aimed at exploring linked data workflows and extensions to BIBFRAME to cover specific domains.
 
 
 Princeton worked with the [W3C Web Annotation model](https://www.w3.org/TR/annotation-model/) to encode dedications in books from Jacques Derrida’s personal library, acquired by the University in March, 2015. Out of the 19,000 volumes of Derrida’s library, 6,770 have personal dedications to him. Of these, a group of 450 items was ultimately selected to be the basis of our dataset. 
