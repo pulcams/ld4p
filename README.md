@@ -47,7 +47,7 @@ Dedicators, dedicatees and other personal names were reconciled against VIAF, as
 Each body is defined as an inscription that has the content of the dedication as its value.
 
 ## Future plans / Exciting Possibilities
-* Add links to images of signatures (pending)
+* ~~Add links to images of signatures~~ done
 * Add encoding for: color content, concepts, events or dates (besides date of creation of dedication), formatting of dedication (line breaks, indents, etc.), or multiple languages
 * Identifying confidence level of transcription or relationships
 * Define the type of insertion (postcard, letter, etc.)
